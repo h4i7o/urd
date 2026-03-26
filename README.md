@@ -1,2 +1,1 @@
-# urd
-# <img src="urd_icon_bg_dark.png" width="40"> Project Name
+# <img src="urd_icon_clear_dark.png" width="40"> Urd
